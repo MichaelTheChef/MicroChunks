@@ -1,0 +1,4 @@
+name: MicroChunks
+version: '${project.version}'
+main: me.mio.microchunks.MicroChunks
+api-version: 1.17
